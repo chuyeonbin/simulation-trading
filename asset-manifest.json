@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/upbit-trade/static/js/main.46a02d3a.js",
+    "main.js": "/upbit-trade/static/js/main.fc41deb0.js",
     "index.html": "/upbit-trade/index.html",
-    "main.46a02d3a.js.map": "/upbit-trade/static/js/main.46a02d3a.js.map"
+    "main.fc41deb0.js.map": "/upbit-trade/static/js/main.fc41deb0.js.map"
   },
   "entrypoints": [
-    "static/js/main.46a02d3a.js"
+    "static/js/main.fc41deb0.js"
   ]
 }
